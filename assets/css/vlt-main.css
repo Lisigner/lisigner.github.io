@@ -1053,6 +1053,7 @@ h1.vlt-large-heading,
 {
     font-size: 7.5rem;
     font-weight: 600;
+    font-size: 10vw;
 }
 
 h2,
@@ -2483,12 +2484,14 @@ select:focus::-webkit-input-placeholder
     font-size: 7.5rem;
     font-weight: 600;
     line-height: 1.1;
+    font-size: 10vw;
 }
 @media only screen and (max-width: 767px)
 {
     .vlt-project-title
     {
         font-size: 5rem;
+        font-size: 10vw;
     }
 }
 
